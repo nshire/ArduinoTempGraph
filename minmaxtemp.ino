@@ -1,9 +1,8 @@
 /***************************************************************************
-  This is a library for the BMP280 humidity, temperature & pressure sensor
+  This is for the BMP280 temperature & pressure sensor
 
   These sensors use I2C or SPI to communicate, 2 or 4 pins are required 
-  to interface.
-
+  for the interface.
  ***************************************************************************/
 
 #include <Wire.h>
